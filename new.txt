@@ -1,2 +1,4 @@
 Hi I am a new file.
 hehehe
+
+It is after the 2nd commit
